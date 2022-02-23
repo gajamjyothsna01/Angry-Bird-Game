@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGroundLayer
+    uniqueID: 3823373211
+    locked: 0
+  - name: GroundLayer
+    uniqueID: 3402787129
+    locked: 0
+  - name: BirdLayer
+    uniqueID: 3859687489
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
